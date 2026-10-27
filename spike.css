@@ -1,0 +1,7 @@
+body { margin: 0; font-family: -apple-system, system-ui, sans-serif; background: #111418; color: #e6e8eb; }
+main { min-height: 100vh; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 12px; padding: 24px; box-sizing: border-box; text-align: center; }
+#contador { font-size: 96px; font-weight: 700; }
+button { min-height: 44px; min-width: 160px; font-size: 18px; border: 0; border-radius: 10px; background: #2d6cdf; color: #fff; }
+button:disabled { background: #2a2f36; color: #777; }
+#desistir { background: transparent; border: 1px solid #444; color: #aaa; }
+.carimbo { font-size: 13px; color: #888; }
